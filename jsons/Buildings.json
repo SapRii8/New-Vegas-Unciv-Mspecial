@@ -6,8 +6,8 @@
     "production": 8,
     "science": 8,
     "cost": 200,
-    "specialistSlot": { 
-      "RobCo Scientist": 9
+    "specialistSlots": { 
+      "RobCo Scientist": 5
     },
     "greatPersonPoints": { 
       "Great Engineer": 2,
@@ -36,7 +36,7 @@
     "culture": 4,
     "cost": 175,
     "specialistSlots": {
-      "Casino Player": 9
+      "Casino Player": 5
     },
     "uniques": [
       "Free Great Person",

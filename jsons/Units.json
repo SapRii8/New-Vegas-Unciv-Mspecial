@@ -7,7 +7,7 @@
     "strength": 74,
     "cost": "370",
     "requiredTech": "Electronics",
-    "obsolete tech": "Robotics",
+    "obsoleteTech": "Robotics",
     "upgradesTo": "Securitron Mark II",
     "attackSound": "shot",
     "promotions": ["Ignore terrain cost"],

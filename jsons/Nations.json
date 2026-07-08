@@ -31,13 +31,13 @@
     "uniques": [
       "Cannot build [Settler] units",
       "Free [Settler] appears <upon entering a new era>",
-      "[+100]% [Gold] [in capital]", "[+50]% [Gold] [in all city]",
-      "[+100]% [Science] [in capital]", "[+50]% [Science] [in all city]",
+      "[+100]% [Gold] [in capital]", "[+50]% [Gold] [in all cities]",
+      "[+100]% [Science] [in capital]", "[+50]% [Science] [in all cities]",
       "[25]% [Production] [in capital] <when at war>",
       "[+1 Production] [in all cities] <for every [100] [Gold]>",
       "Gain [50] [Gold] <(modified by game speed)> <upon constructing [Gold] [in all cities]>",
       "Free [Great Engineer] appears <upon discovering [Engineering] technology>",
-      "Gain control over tiles in a [2]-tile radius <in capital>"
+      "Gain control over [All] tiles in a [2]-tile radius <in capital>"
     ],
     
     "cities": [

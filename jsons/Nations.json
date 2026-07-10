@@ -37,7 +37,7 @@
       "[+1 Production] [in all cities] <for every [100] [Gold]>",
       "Gain [50] [Gold] <(modified by game speed)> <upon constructing [Gold] [in all cities]>",
       "Free [Great Engineer] appears <upon discovering [Engineering] technology>",
-		"Gain control over [All] tiles in a [2]-tile radius <upon founding a city> <[1] times>>"
+		"Gain control over [All] tiles in a [2]-tile radius [in capital] <once>>"
     ],
     
     "cities": [

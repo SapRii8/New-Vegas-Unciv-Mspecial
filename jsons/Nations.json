@@ -30,6 +30,7 @@
     "uniqueText": "Settler, Gold, Science, Production, Engineer",
     "uniques": [
       "Cannot build [Settler] units",
+		"[Settler] units gain the [Ignore terrain cost] promotion",
       "Free [Settler] appears <upon entering a new era>",
       "[+50]% [Gold] [in capital]", "[+50]% [Gold] [in all cities]",
       "[+50]% [Science] [in capital]", "[+50]% [Science] [in all cities]",
